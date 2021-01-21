@@ -1,0 +1,13 @@
+import time 
+import random 
+print(' _____________________')
+print(':_____________________:')
+print(':----------rendom-----------: ')
+print("\033[95m Hello")
+
+sifre='-a-rendom.27'
+
+if sifreinput==sifre: 
+    print('++')
+else: 
+    print('--')
