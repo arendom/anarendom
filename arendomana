@@ -3,7 +3,7 @@ import random
 print(' _____________________')
 print(':_____________________:')
 print(':----------rendom-----------: ')
-print("\033[95m Hello")
+print("\033[95m :---")
 
 sifre='-a-rendom.27'
 
