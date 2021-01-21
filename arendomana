@@ -1,7 +1,10 @@
 import time 
 import random 
 print('\033[92m _____________________')
-print(':_____________________:')
+print('import time 
+import random 
+print('\033[92m _____________________')
+print('\033[92m :_____________________:')
 print(':----------rendom-----------: ')
 
 
