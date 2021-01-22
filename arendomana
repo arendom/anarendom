@@ -91,6 +91,13 @@ time.sleep(2)
 
 
 
+
+
+sifreinput=input('\033[91m Password: ')
+
+
+
+
 sifre='-a-rendom.27'
 
 
