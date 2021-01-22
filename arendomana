@@ -1,9 +1,11 @@
 import time 
 import random
-
-
-
-
+print('~')
+print('~')
+print('~')
+print('~')
+print('~')
+print('~')
 print('\033[92m  _____________________')
 
 
