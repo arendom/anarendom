@@ -106,6 +106,6 @@ sifre='-a-rendom.27'
 
 
 if sifreinput==sifre: 
-    print('++')
+    print('\033[94m Login to the application')
 else: 
-    print('--')
+    print('\033[91m Login failed')
